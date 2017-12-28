@@ -41,9 +41,10 @@
 
 * [CocoaLumberjack / CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
 
-## Reactive
+## Concurrency
 
 * [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift)
+* [mxcl / PromiseKit](https://github.com/mxcl/PromiseKit)
 
 ## Animation
 
