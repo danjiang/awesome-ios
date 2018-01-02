@@ -55,6 +55,18 @@
 * [lkzhao / Hero](https://github.com/lkzhao/Hero)
 * [facebook / pop](https://github.com/facebook/pop)
 
+## Make Smooth UI
+
+* [linkedin / LayoutKit](https://github.com/linkedin/LayoutKit)
+* [Instagram / IGListKit](https://github.com/Instagram/IGListKit)
+* [texturegroup / texture](https://github.com/texturegroup/texture)
+
+## Alternative UI Framework
+
+* [facebook / react-native](https://github.com/facebook/react-native)
+* [schibsted / layout](https://github.com/schibsted/layout)
+* [spotify / HubFramework](https://github.com/spotify/HubFramework)
+
 ## Date
 
 * [akosma / SwiftMoment](https://github.com/akosma/SwiftMoment)
