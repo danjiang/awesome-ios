@@ -57,9 +57,9 @@
 
 ## Make Smooth UI
 
-* [linkedin / LayoutKit](https://github.com/linkedin/LayoutKit)
 * [Instagram / IGListKit](https://github.com/Instagram/IGListKit)
-* [texturegroup / texture](https://github.com/texturegroup/texture)
+* [TextureGroup / Texture](https://github.com/texturegroup/texture)
+* [linkedin / LayoutKit](https://github.com/linkedin/LayoutKit)
 
 ## Alternative UI Framework
 
