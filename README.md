@@ -21,6 +21,7 @@
 
 * [onevcat / Kingfisher](https://github.com/onevcat/Kingfisher)
 * [rs / SDWebImage](https://github.com/rs/SDWebImage)
+* [path / FastImageCache](https://github.com/path/FastImageCache)
 
 ## Auto Layout
 
@@ -64,8 +65,13 @@
 ## Alternative UI Framework
 
 * [facebook / react-native](https://github.com/facebook/react-native)
+* [apache / incubator-weex](https://github.com/apache/incubator-weex)
 * [schibsted / layout](https://github.com/schibsted/layout)
 * [spotify / HubFramework](https://github.com/spotify/HubFramework)
+
+## Routing
+
+* [devxoul / URLNavigator](https://github.com/devxoul/URLNavigator)
 
 ## Date
 
@@ -87,6 +93,37 @@
 
 * [bizz84 / SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)
 
+## Security
+
+* [krzyzanowskim / CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)
+* [matthewpalmer / Locksmith](https://github.com/matthewpalmer/Locksmith)
+
+## Photo Browser
+
+* [suzuki-0000 / SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
+
+## Image Picker
+
+* [banchichen / TZImagePickerController](https://github.com/banchichen/TZImagePickerController)
+
 ## Camera
 
 * [BradLarson / GPUImage](https://github.com/BradLarson/GPUImage)
+
+## Keyboard
+
+* [hackiftekhar / IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
+
+## Placeholder
+
+* [dzenbot / DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)
+* [Juanpe / SkeletonView](https://github.com/Juanpe/SkeletonView)
+
+## Form
+
+* [xmartlabs / Eureka](https://github.com/xmartlabs/Eureka)
+
+## Miscellaneous
+
+* [delba / Permission](https://github.com/delba/Permission)
+* [dennisweissmann / DeviceKit](https://github.com/dennisweissmann/DeviceKit)
