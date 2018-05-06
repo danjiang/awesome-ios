@@ -49,6 +49,7 @@
 
 ## Animation
 
+* [airbnb / lottie-ios](https://github.com/airbnb/lottie-ios)
 * [MengTo / Spring](https://github.com/MengTo/Spring)
 * [marmelroy / Interpolate](https://github.com/marmelroy/Interpolate)
 * [storehouse / Advance](https://github.com/storehouse/Advance)
