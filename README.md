@@ -14,6 +14,7 @@
 * [Instagram / IGListKit](https://github.com/Instagram/IGListKit)
 * [TextureGroup / Texture](https://github.com/texturegroup/texture)
 * [linkedin / LayoutKit](https://github.com/linkedin/LayoutKit)
+* [facebook / yoga](https://github.com/facebook/yoga)
 
 ### Network
 
