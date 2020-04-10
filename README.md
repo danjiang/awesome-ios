@@ -3,23 +3,22 @@
 * [raywenderlich / swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
 * [raywenderlich / objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
 * [raywenderlich / swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
-* [ole / whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4)
 * [ochococo / Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+* [realm / SwiftLint](https://github.com/realm/SwiftLint)
 
 ## Major
 
 ### UI
 
-* [facebook / react-native](https://github.com/facebook/react-native)
-* [Instagram / IGListKit](https://github.com/Instagram/IGListKit)
 * [TextureGroup / Texture](https://github.com/texturegroup/texture)
-* [linkedin / LayoutKit](https://github.com/linkedin/LayoutKit)
 * [facebook / yoga](https://github.com/facebook/yoga)
+* [facebook / react-native](https://github.com/facebook/react-native)
 
 ### Network
 
 * [Alamofire / Alamofire](https://github.com/Alamofire/Alamofire)
 * [AFNetworking / AFNetworking](https://github.com/AFNetworking/AFNetworking)
+* [Tencent / mars](https://github.com/Tencent/mars)
 * [Moya / Moya](https://github.com/Moya/Moya)
 * [SwiftyJSON / SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 * [apple / swift-protobuf](https://github.com/apple/swift-protobuf)
@@ -27,14 +26,17 @@
 * [daltoniam / Starscream](https://github.com/daltoniam/Starscream)
 * [facebook / SocketRocket](https://github.com/facebook/SocketRocket)
 * [novastone-media / MQTT-Client-Framework](https://github.com/novastone-media/MQTT-Client-Framework)
+* [flightonary / Moscapsule](https://github.com/flightonary/Moscapsule)
 * [robbiehanson / CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)
 
 ### Storage
 
+* [Tencent / wcdb](https://github.com/Tencent/wcdb)
 * [ccgus / fmdb](https://github.com/ccgus/fmdb)
 * [stephencelis / SQLite.swift](https://github.com/stephencelis/SQLite.swift)
 * [groue / GRDB.swift](https://github.com/groue/GRDB.swift)
 * [realm / realm-cocoa](https://github.com/realm/realm-cocoa)
+* [Tencent / MMKV](https://github.com/Tencent/MMKV)
 
 ### Download & Cache Image
 
@@ -179,3 +181,15 @@
 ### Device
 
 * [dennisweissmann / DeviceKit](https://github.com/dennisweissmann/DeviceKit)
+
+### TextView
+
+* [muukii / NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)
+
+### Code Generator
+
+* [krzysztofzablocki / Sourcery](https://github.com/krzysztofzablocki/Sourcery)
+
+### Debug
+
+* [didi / DoraemonKit](https://github.com/didi/DoraemonKit)
