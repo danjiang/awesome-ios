@@ -104,6 +104,7 @@
 * [danielgindi / Charts](https://github.com/danielgindi/Charts)
 * [philackm / ScrollableGraphView](https://github.com/philackm/ScrollableGraphView)
 * [Boris-Em / BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)
+* [i-schuetz / SwiftCharts](https://github.com/i-schuetz/SwiftCharts)
 
 ### IAP
 
