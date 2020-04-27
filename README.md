@@ -127,7 +127,14 @@
 
 ### Camera
 
+* [NextLevel / NextLevel](https://github.com/NextLevel/NextLevel)
 * [BradLarson / GPUImage](https://github.com/BradLarson/GPUImage)
+
+### Player
+
+* [piemonte / Player](https://github.com/piemonte/Player)
+* [adamcichy / SwiftySound](https://github.com/adamcichy/SwiftySound)
+* [syedhali / AudioStreamer](https://github.com/syedhali/AudioStreamer) 
 
 ### Keyboard
 
@@ -167,6 +174,14 @@
 
 * [mamaral / Onboard](https://github.com/mamaral/Onboard)
 
+### TextView
+
+* [muukii / NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)
+
+### Menu
+
+* [rechsteiner / Parchment](https://github.com/rechsteiner/Parchment)
+
 ### Zip
 
 * [marmelroy / Zip](https://github.com/marmelroy/Zip)
@@ -182,10 +197,6 @@
 ### Device
 
 * [dennisweissmann / DeviceKit](https://github.com/dennisweissmann/DeviceKit)
-
-### TextView
-
-* [muukii / NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)
 
 ### Code Generator
 
