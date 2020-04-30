@@ -1,5 +1,8 @@
 ## Language
 
+* [Google Swift Style Guide](https://google.github.io/swift)
+* [Google Objective-C Style Guide](http://google.github.io/styleguide/objcguide.html)
+* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [raywenderlich / swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
 * [raywenderlich / objective-c-style-guide](https://github.com/raywenderlich/objective-c-style-guide)
 * [raywenderlich / swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
@@ -149,14 +152,12 @@
 
 * [xmartlabs / Eureka](https://github.com/xmartlabs/Eureka)
 
-### Pop Up
+### Popup Alert Sheet
 
 * [vikmeup / SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [adad184 / MMPopupView](https://github.com/adad184/MMPopupView)
-
-### Sheet
-
 * [m1entus / MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController)
+* [shiba1014 / NewYorkAlert](https://github.com/shiba1014/NewYorkAlert)
 
 ### Format
 
